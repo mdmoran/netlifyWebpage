@@ -42,3 +42,9 @@ b, strong {
         filter: grayscale(0%);
     }
 }
+
+img {
+        width: 150px;
+        height: 300px;
+        align: center;
+}
